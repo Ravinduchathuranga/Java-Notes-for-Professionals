@@ -10,4 +10,5 @@ trademarks and registered trademarks are the property of their respective
 company owners
 The information presented in this book is not guaranteed to be correct nor
 accurate, use at your own risk
+
 ![image](https://github.com/Ravinduchathuranga/Java-Notes-for-Professionals/assets/96408799/c475745a-8ca6-4f3a-904c-368422b65a19)
